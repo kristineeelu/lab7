@@ -19,7 +19,7 @@
 </head>
 <body>
   <h1>Apasă butonul pentru a schimba culoarea fundalului!</h1>
-  <button id="colorButton">Schimbă Culoarea</button>
+  <button id="colorButton">Schimba Culoarea</button>
 
   <script>
     const colors = ["#FF5733", "#33FF57", "#3357FF", "#F3FF33", "#FF33A1"];
